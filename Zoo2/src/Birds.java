@@ -2,7 +2,7 @@
 public class Birds {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Hey, How many birds are there?");
 
 	}
 
